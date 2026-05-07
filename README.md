@@ -201,19 +201,19 @@ Toate datele sensibile sunt stocate în fișierul `.env.local` și nu sunt publi
 
 ## Pagina creare task
 
-![Homepage](./screenshots/adaugaretask.png)
+![AddTask](./screenshots/adaugaretask.png)
 
 ---
 
 ## Pagina editare task
 
-![Homepage](./screenshots/editaretask.png)
+![EditTask](./screenshots/editaretask.png)
 
 ---
 
 ## Pagina feedback
 
-![Homepage](./screenshots/feedback.png)
+![Feedback](./screenshots/feedback.png)
 
 ---
 
