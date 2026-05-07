@@ -1,6 +1,6 @@
 # TrackerSprint
 
-**Nume Prenume:** Cristescu Vlad-Mihai
+**Student:** Cristescu Vlad-Mihai
 **Grupa:** 1145
 
 ## Link prezentare video
