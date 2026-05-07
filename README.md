@@ -1,6 +1,6 @@
 # TrackerSprint
 
-**Student:** Cristescu Vlad-Mihai
+**Masterand:** Cristescu Vlad-Mihai
 **Grupa:** 1145
 
 ## Link prezentare video
