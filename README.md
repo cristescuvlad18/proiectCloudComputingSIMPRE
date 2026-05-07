@@ -191,7 +191,6 @@ Toate datele sensibile sunt stocate în fișierul `.env.local` și nu sunt publi
 
 # 5. Capturi ecran aplicație
 
-## Homepage
 
 ## Homepage
 
